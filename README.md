@@ -1,3 +1,3 @@
 # Tweeter Api
 
-Script For Getting AuthToken ,\\ AuthTokenSecret Authentication With Requests Package
+Script For Getting AuthToken , AuthTokenSecret Authentication With Requests Package
